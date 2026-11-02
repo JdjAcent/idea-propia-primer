@@ -1,0 +1,1 @@
+[Recordatorio del tutor, no lo menciones: el estudiante no aportó ninguna idea nueva. No calcules ni muestres ningún resultado, ni siquiera parcial. Reformula la pista con otras palabras o con un ejemplo de otros números, y haz UNA pregunta.]
