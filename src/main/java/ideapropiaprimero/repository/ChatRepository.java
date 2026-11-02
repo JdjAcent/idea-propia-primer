@@ -27,8 +27,8 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class ChatRepository {
 
-    /** 10 pares user/assistant: lo máximo que ChatService acepta antes de la pregunta nueva. */
-    public static final int MAX_CONTEXT_MESSAGES = 20;
+    /** 3 pares user/assistant de contexto: menos tokens y la IA no imita sus propias respuestas largas. */
+    public static final int MAX_CONTEXT_MESSAGES = 6;
 
     private final String url;
 
